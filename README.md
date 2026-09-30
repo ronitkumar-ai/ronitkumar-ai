@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=2FA8FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ronit+Kumar+%F0%9F%91%8B;AI%2FML+Engineer+%E2%80%94+Computer+Vision+%26+Remote+Sensing;I+teach+drones+to+see+crops;YOLOv8+%C2%B7+GNNs+%C2%B7+LLM+Agents+%C2%B7+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=2FA8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronit+Kumar+%F0%9F%91%8B;M.S.+student%2C+Ag+%26+Biological+Engineering+%40+Purdue;Ex-Lead+CV+Engineer+%40+MDST+%C2%B7+Ex-Senior+AI%2FML+Eng+%40+Farmevo;YOLOv8+%C2%B7+GNNs+%C2%B7+Vision-Language+%C2%B7+LLM+Agents" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,13 +16,25 @@
 
 ### 👀 About me
 
-I'm a Senior AI/ML Engineer at **Farmevo**, building computer-vision and geospatial-AI systems that fly on drones and make decisions in real fields — not just in notebooks. My work sits at the intersection of **CV, GNNs, and LLM agents**: detecting crop issues from multispectral UAV imagery, then routing that signal through autonomous agents that plan interventions, replan spray missions, and talk to farmers in plain language.
+I'm currently pursuing my **M.S. in Agricultural & Biological Engineering at Purdue University** (Fall 2026–present), building on 2.5+ years of production AI/ML engineering spanning precision agriculture and retail computer vision.
 
-- 🔭 Currently building **multi-agent crop advisory systems** (Crop Doctor, Logistics Planner, Compliance Checker) orchestrated with LangChain + FastAPI
-- 🌱 Shipping production CV: modular YOLOv8 for multi-band drone imagery, GNNs for off-type/spacing detection, TensorRT pipelines running 1.4x faster at 22% lower GPU cost
+- 🎓 M.S. Agricultural & Biological Engineering, Purdue University — Fall 2026–present
+- 👔 Previously **Lead CV Engineer** at **MDST Market** (Mar–Aug 2026) — built the visual-search and virtual try-on CV stack for a modest-fashion retail platform, as part of an NVIDIA Innovation Lab collaboration
+- 🌱 Before that, **Senior AI & ML Engineer** at **Farmevo** (Feb 2024–Mar 2026) — drone-based precision agriculture: multi-band YOLOv8, GNNs, TensorRT pipelines, LLM crop-advisory agents
+- 📄 Published: *Automated Assessment of Well-Spaced Trees in Regenerative Forests Through UAV-Based AI Framework* · *A Deep Learning based Approach for Sindhi Poet Classification using Couplets* (ICETST 2024)
 - 🎙️ Side quest: **LipSync for Aphonia Patients** — vision-to-speech in Urdu using facial landmarks, giving voice to the voiceless
-- 📄 Published: *A Deep Learning based Approach for Sindhi Poet Classification using Couplets* — ICETST 2024
 - 🎓 BS Computer Science, Habib University (GPA 3.56/4.0)
+
+---
+
+### 🧭 Timeline
+
+| When | Role | Org |
+|---|---|---|
+| Fall 2026 – Present | M.S. Agricultural & Biological Engineering | Purdue University |
+| Mar 2026 – Aug 2026 | Lead CV Engineer | MDST Market |
+| Feb 2024 – Mar 2026 | Senior AI & Machine Learning Engineer | Farmevo |
+| Jun 2023 – Sep 2023 | Data Science Intern | AIFACTOR.CA |
 
 ---
 
@@ -65,13 +77,16 @@ I'm a Senior AI/ML Engineer at **Farmevo**, building computer-vision and geospat
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
 </p>
 
-**Languages**
+**Languages** (Python is my daily driver)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash%2FShell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
 </p>
 
 ---
@@ -80,9 +95,11 @@ I'm a Senior AI/ML Engineer at **Farmevo**, building computer-vision and geospat
 
 | Project | What it does |
 |---|---|
+| **Visual Search & Virtual Try-On** (MDST · NVIDIA Innovation Lab) | CV models + image embeddings for visual similarity search and multimodal product discovery; VTO pipeline for modest fashion (hijab/abaya) |
 | **Multi-Agent Crop Advisory System** | Specialized LLM agents (Crop Doctor, Logistics Planner, Compliance Checker) coordinated via FastAPI + LangChain — 28% higher farmer satisfaction |
 | **Autonomous Agricultural Field Agent** | Ingests live drone imagery → detects crop issues via CV → retrieves context via RAG → generates intervention plans; cut field-inspection latency 45% |
 | **GNN Off-Type Detection** | Graph neural network flags off-type canola volunteers in drone imagery, cutting false positives 31% |
+| **Well-Spaced Tree Assessment** (published) | UAV-based AI framework assessing tree spacing in regenerative forests |
 | **Multiband YOLOv8 for Crop Detection** | Fuses RGB, NIR, and thermal imagery for spectral-aware crop segmentation |
 | **LipSync for Aphonia Patients** | Facial-landmark + NLP pipeline that turns silent speech into Urdu audio |
 
